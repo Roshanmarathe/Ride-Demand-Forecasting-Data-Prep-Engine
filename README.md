@@ -736,19 +736,6 @@ timeline
 - [ ] Explainable AI
 - [ ] Model deployment & production monitoring
 
----
-
-## 📈 Repo Analytics
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OWNER.REPO)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=OWNER/REPO&type=Date)](https://star-history.com/#OWNER/REPO&Date)
-
-</div>
-
----
 
 ## 👨‍💻 Author
 
